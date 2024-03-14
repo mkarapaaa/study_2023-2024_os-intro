@@ -1,27 +1,45 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Второй этап индивидуального проекта.
-author: |
-	Карапетян Мари Рафаеловна
-institute: |
-	RUDN, Москва, Россия
-date: 2024, 14 марта
+title: "Отчет о выполнении индивидуального проекта.Этап 1."
+subtitle: 
+author:
+  - Карапетян Мари Рафаеловна
+institute:
+  - Российский университет дружбы народов, Москва, Россия
+date: 22 февраля 2024
+
 
 ## Formatting
+mainfont: PT Serif
+romanfont: PT Serif
+sansfont: PT Sans
+monofont: PT Mono
 toc: false
 slide_level: 2
 theme: metropolis
-header-includes: 
- - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
- - '\makeatletter'
- - '\beamer@ignorenonframefalse'
- - '\makeatother'
+header-includes:
+- \metroset{progressbar=frametitle,sectionpage=progressbar, numbering=fraction}
+- '\makeatletter'
+- '\beamer@ignorenonframefalse'
+- '\makeatother'
 aspectratio: 43
 section-titles: true
+
 ---
 
-# Выполнение второго этапа индивидуального проекта
+# Цели и задачи работы
+
+## Цели и задачи
+
+Разместить фотографию владельца сайта.
+Разместить краткое описание владельца сайта.
+Добавить информацию об интересах.
+Добавить информацию об образовании.
+Сделать пост по прошедшей неделе.
+Добавить пост на тему: "Управление версиями.Git."
+
+# Процесс выполнения индивидуального проекта
 
 ## Добавление фотографии на сайт
 
@@ -75,8 +93,4 @@ section-titles: true
 
 В ходе выполнения второго этапа индивидуального проекта мы научились добавлять к сайту информацию о себе, а также создавать новые посты.
 
-
-## {.standout}
-
-Спасибо за внимание!
 
